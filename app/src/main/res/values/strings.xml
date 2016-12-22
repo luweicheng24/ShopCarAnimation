@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ShopCarAddAnimation</string>
+    <string name="first">首页</string>
+    <string name="second">分类</string>
+    <string name="three">购物车</string>
+    <string name="four">我的</string>
+</resources>
